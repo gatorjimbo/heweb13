@@ -1,2 +1,4 @@
 {"ts":1366653247438,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"heweb13\n=======\n\nTest Repository"]],"start1":0,"start2":0,"length1":0,"length2":32}]],"length":32}
 {"contributors":[],"silentsave":false,"ts":1366653273020,"patch":[[{"diffs":[[0,"==\n\n"],[-1,"Test Repository"],[1,"demo project for heweb13 workshop\n\nSomething"]],"start1":13,"start2":13,"length1":19,"length2":48}]],"length":61,"saved":false}
+{"ts":1366653968348,"patch":[[{"diffs":[[0,"omething"],[1," for the develop branch"]],"start1":53,"start2":53,"length1":8,"length2":31}]],"length":84,"saved":false}
+{"ts":1366654299457,"patch":[[{"diffs":[[0,"mething "],[-1,"f"],[1,"new fg"],[0,"or the d"]],"start1":54,"start2":54,"length1":17,"length2":22},{"diffs":[[0,"p branch"],[1,"."]],"start1":81,"start2":81,"length1":8,"length2":9}]],"length":90,"saved":false}
